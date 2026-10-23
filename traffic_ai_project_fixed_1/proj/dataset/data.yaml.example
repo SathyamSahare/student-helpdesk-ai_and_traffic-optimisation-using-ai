@@ -1,0 +1,21 @@
+# Copy this file to dataset/data.yaml and edit the paths.
+# Images and labels must follow the YOLO detection dataset format.
+# Example folder structure:
+# dataset/
+#   images/train/
+#   images/val/
+#   labels/train/
+#   labels/val/
+#
+# Labels are .txt files: class_id x_center y_center width height
+# Coordinates must be normalized between 0 and 1.
+
+path: dataset   # relative to where you run training (or use a full path)
+train: images/train
+val: images/val
+
+names:
+  0: car
+  1: motorcycle
+  2: bus
+  3: truck

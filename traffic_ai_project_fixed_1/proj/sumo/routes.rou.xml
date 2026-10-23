@@ -1,0 +1,19 @@
+<routes>
+<vType id="car" accel="2.6" decel="4.5" length="5" maxSpeed="13.9"/>
+<route id="r_N" edges="N_in S_out"/>
+<route id="r_S" edges="S_in N_out"/>
+<route id="r_E" edges="E_in W_out"/>
+<route id="r_W" edges="W_in E_out"/>
+<flow id="f_N_a" type="car" route="r_N" begin="0" end="900" vehsPerHour="500" departLane="best"/>
+<flow id="f_N_b" type="car" route="r_N" begin="900" end="2700" vehsPerHour="850" departLane="best"/>
+<flow id="f_N_c" type="car" route="r_N" begin="2700" end="3600" vehsPerHour="500" departLane="best"/>
+<flow id="f_S_a" type="car" route="r_S" begin="0" end="900" vehsPerHour="400" departLane="best"/>
+<flow id="f_S_b" type="car" route="r_S" begin="900" end="2700" vehsPerHour="680" departLane="best"/>
+<flow id="f_S_c" type="car" route="r_S" begin="2700" end="3600" vehsPerHour="400" departLane="best"/>
+<flow id="f_E_a" type="car" route="r_E" begin="0" end="900" vehsPerHour="350" departLane="best"/>
+<flow id="f_E_b" type="car" route="r_E" begin="900" end="2700" vehsPerHour="595" departLane="best"/>
+<flow id="f_E_c" type="car" route="r_E" begin="2700" end="3600" vehsPerHour="350" departLane="best"/>
+<flow id="f_W_a" type="car" route="r_W" begin="0" end="900" vehsPerHour="300" departLane="best"/>
+<flow id="f_W_b" type="car" route="r_W" begin="900" end="2700" vehsPerHour="510" departLane="best"/>
+<flow id="f_W_c" type="car" route="r_W" begin="2700" end="3600" vehsPerHour="300" departLane="best"/>
+</routes>

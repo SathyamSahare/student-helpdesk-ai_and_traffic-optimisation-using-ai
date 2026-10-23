@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pandas
+scikit-learn
+eclipse-sumo
+traci
+tensorflow
