@@ -1,0 +1,67 @@
+question,expected,predicted,confidence,passed
+hello friend,greeting,greeting,0.93,True
+hey whats up,greeting,greeting,0.99,True
+see ya,goodbye,goodbye,0.919,True
+bye for now,goodbye,goodbye,0.979,True
+many thanks,thanks,thanks,0.95,True
+thank u,thanks,thanks,0.985,True
+How do I get into college?,admission_process,admission_process,0.48,True
+Tell me about applying,admission_process,admission_deadlines,0.46,False
+what are the steps to register for the first year,admission_process,admission_process,0.896,True
+Where do I submit my application form,admission_process,admission_process,0.671,True
+Which exam scores are needed to qualify,admission_eligibility,admission_eligibility,0.957,True
+am i allowed to apply with 60 percent in 12th,admission_eligibility,admission_eligibility,0.569,True
+what is the minimum mark to be considered,admission_eligibility,admission_eligibility,0.748,True
+Which papers must i bring for verification,admission_documents,admission_documents,0.793,True
+need list of certificates for counselling day,admission_documents,admission_documents,0.938,True
+do i have to submit my 10th marksheet,admission_documents,admission_documents,0.758,True
+by when should i submit my application,admission_deadlines,admission_deadlines,0.897,True
+is registration closing soon,admission_deadlines,admission_deadlines,0.793,True
+when does the new batch start,admission_deadlines,admission_deadlines,0.75,True
+What programs can I study?,courses_offered,courses_offered,0.842,True
+which branches can i choose,courses_offered,courses_offered,0.813,True
+do you teach data science,courses_offered,courses_offered,0.693,True
+Where are program details listed?,course_details,course_details,0.862,True
+how long is the engineering degree,course_details,courses_offered,0.406,False
+where can i download the syllabus pdf,course_details,course_details,0.95,True
+How much do I have to pay?,fee_structure,fee_structure,0.396,True
+what is the yearly tuition,fee_structure,fee_structure,0.394,True
+cost of hostel and mess,fee_structure,fee_structure,0.886,True
+How can I pay my fees online?,fee_payment,fee_payment,0.988,True
+can fees be paid via credit card,fee_payment,fee_payment,0.777,True
+what if i miss the fee due date,fee_payment,admission_deadlines,0.361,False
+can i get a scholarship for good marks,scholarships,scholarships,0.926,True
+is there a concession for economically weaker students,scholarships,scholarships,0.686,True
+how do i apply for the fee waiver scheme,scholarships,scholarships,0.709,True
+Can students get internships?,internships_availability,internships_availability,0.985,True
+does the college arrange summer training in companies,internships_availability,internships_availability,0.746,True
+is it compulsory to do an internship,internships_availability,internships_availability,0.901,True
+Who handles internship queries?,internships_contact,internships_contact,0.805,True
+whom do i meet to get the internship letter,internships_contact,internships_contact,0.871,True
+internship cell phone number,internships_contact,internships_contact,0.785,True
+Tell me about campus placements,placements_info,placements_info,0.653,True
+what packages do students get,placements_info,placements_info,0.353,True
+which companies come to hire students,placements_info,placements_info,0.647,True
+How should I prepare for placement drives?,placement_prep,placement_prep,0.587,True
+do you provide training before recruitment,placement_prep,placement_prep,0.808,True
+how to crack the aptitude round,placement_prep,placement_prep,0.647,True
+how do i aply for admision,admission_process,admission_process,0.93,True
+wat documnts are neded,admission_documents,admission_documents,0.626,True
+fee paymnet portal,fee_payment,fee_payment,0.671,True
+internshp opportunitis,internships_availability,internships_availability,0.474,True
+placment record,placements_info,placements_info,0.624,True
+scholarshp details,scholarships,scholarships,0.791,True
+what is the weather today,OUT_OF_SCOPE,OUT_OF_SCOPE,0.823,True
+who won the cricket match yesterday,OUT_OF_SCOPE,OUT_OF_SCOPE,0.883,True
+tell me a joke,OUT_OF_SCOPE,OUT_OF_SCOPE,0.259,True
+how to cook biryani,OUT_OF_SCOPE,OUT_OF_SCOPE,0.769,True
+what is the capital of france,OUT_OF_SCOPE,OUT_OF_SCOPE,0.704,True
+recommend a good movie,OUT_OF_SCOPE,OUT_OF_SCOPE,0.691,True
+asdfgh qwerty,OUT_OF_SCOPE,OUT_OF_SCOPE,0.453,True
+how do i repair my laptop,OUT_OF_SCOPE,OUT_OF_SCOPE,0.722,True
+where can i find the college,college_info,college_info,0.888,True
+college phone number please,college_info,college_info,0.983,True
+what time does the office shut,college_info,college_info,0.553,True
+since when has the college existed,college_info,college_info,0.927,True
+is cec under vtu,college_info,college_info,0.881,True
+give me the campus address,college_info,college_info,0.651,True

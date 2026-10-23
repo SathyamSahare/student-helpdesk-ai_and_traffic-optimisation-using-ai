@@ -1,0 +1,67 @@
+question,expected_intent
+hello friend,greeting
+hey whats up,greeting
+see ya,goodbye
+bye for now,goodbye
+many thanks,thanks
+thank u,thanks
+How do I get into college?,admission_process
+Tell me about applying,admission_process
+what are the steps to register for the first year,admission_process
+Where do I submit my application form,admission_process
+Which exam scores are needed to qualify,admission_eligibility
+am i allowed to apply with 60 percent in 12th,admission_eligibility
+what is the minimum mark to be considered,admission_eligibility
+Which papers must i bring for verification,admission_documents
+need list of certificates for counselling day,admission_documents
+do i have to submit my 10th marksheet,admission_documents
+by when should i submit my application,admission_deadlines
+is registration closing soon,admission_deadlines
+when does the new batch start,admission_deadlines
+What programs can I study?,courses_offered
+which branches can i choose,courses_offered
+do you teach data science,courses_offered
+Where are program details listed?,course_details
+how long is the engineering degree,course_details
+where can i download the syllabus pdf,course_details
+How much do I have to pay?,fee_structure
+what is the yearly tuition,fee_structure
+cost of hostel and mess,fee_structure
+How can I pay my fees online?,fee_payment
+can fees be paid via credit card,fee_payment
+what if i miss the fee due date,fee_payment
+can i get a scholarship for good marks,scholarships
+is there a concession for economically weaker students,scholarships
+how do i apply for the fee waiver scheme,scholarships
+Can students get internships?,internships_availability
+does the college arrange summer training in companies,internships_availability
+is it compulsory to do an internship,internships_availability
+Who handles internship queries?,internships_contact
+whom do i meet to get the internship letter,internships_contact
+internship cell phone number,internships_contact
+Tell me about campus placements,placements_info
+what packages do students get,placements_info
+which companies come to hire students,placements_info
+How should I prepare for placement drives?,placement_prep
+do you provide training before recruitment,placement_prep
+how to crack the aptitude round,placement_prep
+how do i aply for admision,admission_process
+wat documnts are neded,admission_documents
+fee paymnet portal,fee_payment
+internshp opportunitis,internships_availability
+placment record,placements_info
+scholarshp details,scholarships
+what is the weather today,OUT_OF_SCOPE
+who won the cricket match yesterday,OUT_OF_SCOPE
+tell me a joke,OUT_OF_SCOPE
+how to cook biryani,OUT_OF_SCOPE
+what is the capital of france,OUT_OF_SCOPE
+recommend a good movie,OUT_OF_SCOPE
+asdfgh qwerty,OUT_OF_SCOPE
+how do i repair my laptop,OUT_OF_SCOPE
+where can i find the college,college_info
+college phone number please,college_info
+what time does the office shut,college_info
+since when has the college existed,college_info
+is cec under vtu,college_info
+give me the campus address,college_info

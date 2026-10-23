@@ -1,0 +1,417 @@
+intent,category,text
+greeting,General,hi
+greeting,General,hello
+greeting,General,hey
+greeting,General,good morning
+greeting,General,good evening
+greeting,General,hello there
+greeting,General,hi bot
+greeting,General,hey there
+greeting,General,namaste
+greeting,General,anyone there
+greeting,General,hii
+greeting,General,hello helpdesk
+greeting,General,good afternoon
+greeting,General,yo
+greeting,General,hi i need help
+goodbye,General,bye
+goodbye,General,goodbye
+goodbye,General,see you later
+goodbye,General,see you
+goodbye,General,take care
+goodbye,General,talk to you later
+goodbye,General,ok bye
+goodbye,General,that is all
+goodbye,General,nothing else thanks bye
+goodbye,General,i am leaving now
+goodbye,General,catch you later
+goodbye,General,good night
+thanks,General,thanks
+thanks,General,thank you
+thanks,General,thank you so much
+thanks,General,thanks a lot
+thanks,General,great thanks
+thanks,General,ok thanks
+thanks,General,that helped thank you
+thanks,General,much appreciated
+thanks,General,thanks for the help
+thanks,General,cool thanks
+thanks,General,thx
+thanks,General,got it thanks
+admission_process,Admissions,what is the admission process
+admission_process,Admissions,how do i get admission
+admission_process,Admissions,how can i apply for admission
+admission_process,Admissions,steps to join the college
+admission_process,Admissions,how to take admission in this college
+admission_process,Admissions,tell me about the admission procedure
+admission_process,Admissions,how does admission work
+admission_process,Admissions,i want to join your college what should i do
+admission_process,Admissions,how to apply for btech
+admission_process,Admissions,explain the application process
+admission_process,Admissions,admission procedure for first year
+admission_process,Admissions,how do i enroll
+admission_process,Admissions,how can i seek admission
+admission_process,Admissions,process to get into the college
+admission_process,Admissions,how to apply online
+admission_eligibility,Admissions,what is the eligibility for admission
+admission_eligibility,Admissions,who can apply
+admission_eligibility,Admissions,what marks are required for admission
+admission_eligibility,Admissions,minimum percentage needed to apply
+admission_eligibility,Admissions,eligibility criteria for engineering
+admission_eligibility,Admissions,do i qualify for admission
+admission_eligibility,Admissions,what qualification do i need to join
+admission_eligibility,Admissions,am i eligible with 12th pcm
+admission_eligibility,Admissions,entrance exam required for admission
+admission_eligibility,Admissions,which entrance exams are accepted
+admission_eligibility,Admissions,cutoff for admission
+admission_eligibility,Admissions,what are the entry requirements
+admission_eligibility,Admissions,is there a minimum score to get in
+admission_eligibility,Admissions,which exam scores do you accept
+admission_eligibility,Admissions,eligibility for lateral entry
+admission_documents,Admissions,what documents are required for admission
+admission_documents,Admissions,documents needed for admission
+admission_documents,Admissions,list of certificates to submit
+admission_documents,Admissions,which documents should i carry for counselling
+admission_documents,Admissions,do i need transfer certificate
+admission_documents,Admissions,documents required at the time of joining
+admission_documents,Admissions,what papers do i bring on admission day
+admission_documents,Admissions,required certificates for enrollment
+admission_documents,Admissions,do i need migration certificate
+admission_documents,Admissions,documents checklist for new students
+admission_documents,Admissions,which marksheets are needed
+admission_documents,Admissions,what original documents are needed
+admission_documents,Admissions,caste certificate required for admission
+admission_documents,Admissions,how many photos are needed for admission
+admission_documents,Admissions,what files should i upload while applying
+admission_deadlines,Admissions,what is the last date to apply
+admission_deadlines,Admissions,admission deadline
+admission_deadlines,Admissions,when do admissions start
+admission_deadlines,Admissions,when does the application window close
+admission_deadlines,Admissions,last date for admission
+admission_deadlines,Admissions,when will admissions open
+admission_deadlines,Admissions,application dates for this year
+admission_deadlines,Admissions,is the admission still open
+admission_deadlines,Admissions,till when can i apply
+admission_deadlines,Admissions,when is the admission counselling
+admission_deadlines,Admissions,what is the admission schedule
+admission_deadlines,Admissions,when are applications accepted
+admission_deadlines,Admissions,important dates for admission
+admission_deadlines,Admissions,can i still apply now
+admission_deadlines,Admissions,when does the academic year begin
+courses_offered,Courses,which courses are offered
+courses_offered,Courses,what programs do you offer
+courses_offered,Courses,list of branches available
+courses_offered,Courses,what can i study here
+courses_offered,Courses,which engineering branches are there
+courses_offered,Courses,tell me the departments
+courses_offered,Courses,do you have computer science
+courses_offered,Courses,is ai and machine learning offered
+courses_offered,Courses,what undergraduate programs are available
+courses_offered,Courses,are postgraduate courses available
+courses_offered,Courses,do you offer mtech
+courses_offered,Courses,which streams are available
+courses_offered,Courses,what degrees can i get
+courses_offered,Courses,available specializations
+courses_offered,Courses,is there mba or mca
+course_details,Courses,where can i find course details
+course_details,Courses,show me the syllabus
+course_details,Courses,what subjects are taught in the first year
+course_details,Courses,course curriculum details
+course_details,Courses,where is the syllabus available
+course_details,Courses,what is the duration of the course
+course_details,Courses,how many years is the btech program
+course_details,Courses,what are the semesters like
+course_details,Courses,subject list for my branch
+course_details,Courses,credit structure of the program
+course_details,Courses,tell me about the curriculum
+course_details,Courses,what will i learn in this course
+course_details,Courses,how many credits are required
+course_details,Courses,where can i see the scheme and syllabus
+course_details,Courses,are there electives in the course
+fee_structure,Fees,what is the fee structure
+fee_structure,Fees,how much are the fees
+fee_structure,Fees,tuition fee per year
+fee_structure,Fees,what is the cost of the course
+fee_structure,Fees,total fees for four years
+fee_structure,Fees,annual fee details
+fee_structure,Fees,what are the fee charges
+fee_structure,Fees,is there a hostel fee
+fee_structure,Fees,how much is the admission fee
+fee_structure,Fees,fee for management quota
+fee_structure,Fees,what does the course cost
+fee_structure,Fees,fee details for first year
+fee_structure,Fees,are there any additional charges
+fee_structure,Fees,how expensive is the college
+fee_payment,Fees,how do i pay college fees
+fee_payment,Fees,how can i pay my fees
+fee_payment,Fees,online fee payment
+fee_payment,Fees,where to pay the fee
+fee_payment,Fees,what are the payment methods for fees
+fee_payment,Fees,can i pay fees in installments
+fee_payment,Fees,fee payment portal
+fee_payment,Fees,last date to pay fees
+fee_payment,Fees,can i pay by upi
+fee_payment,Fees,fee payment procedure
+fee_payment,Fees,how to pay tuition fee online
+fee_payment,Fees,do you accept demand draft
+fee_payment,Fees,what happens if i pay fees late
+fee_payment,Fees,how to get fee receipt
+fee_payment,Fees,can i pay semester fee in parts
+scholarships,Fees,are scholarships available
+scholarships,Fees,how to apply for a scholarship
+scholarships,Fees,scholarship for meritorious students
+scholarships,Fees,is there any fee concession
+scholarships,Fees,financial aid for students
+scholarships,Fees,government scholarship details
+scholarships,Fees,do you have merit scholarships
+scholarships,Fees,scholarship eligibility
+scholarships,Fees,can i get a fee waiver
+scholarships,Fees,education loan support
+scholarships,Fees,any scholarship for sc st students
+scholarships,Fees,what scholarships can i get
+scholarships,Fees,how do i get financial assistance
+scholarships,Fees,scholarship application last date
+scholarships,Fees,is there a sports quota scholarship
+internships_availability,Internships,are internships available
+internships_availability,Internships,do you provide internship opportunities
+internships_availability,Internships,is internship mandatory
+internships_availability,Internships,when can i do an internship
+internships_availability,Internships,does the college help with internships
+internships_availability,Internships,how to find an internship
+internships_availability,Internships,internship in summer break
+internships_availability,Internships,are there internships for first year students
+internships_availability,Internships,do you have industry tie ups for internships
+internships_availability,Internships,what internship options do students have
+internships_availability,Internships,is there an internship program
+internships_availability,Internships,can i do an internship abroad
+internships_availability,Internships,are internships paid
+internships_availability,Internships,how to apply for internships
+internships_contact,Internships,who should i contact about internships
+internships_contact,Internships,whom to ask about internships
+internships_contact,Internships,internship coordinator contact
+internships_contact,Internships,where is the internship cell
+internships_contact,Internships,contact details of the training and placement office
+internships_contact,Internships,who is the internship incharge
+internships_contact,Internships,how do i reach the internship department
+internships_contact,Internships,email of the internship cell
+internships_contact,Internships,which office manages internships
+internships_contact,Internships,who do i talk to for internship approval
+internships_contact,Internships,how to get internship permission letter
+internships_contact,Internships,where to submit internship completion certificate
+internships_contact,Internships,who issues the internship noc
+internships_contact,Internships,person in charge of student internships
+placements_info,Placements,where can i find placement information
+placements_info,Placements,how are the placements
+placements_info,Placements,which companies visit the campus
+placements_info,Placements,what is the placement percentage
+placements_info,Placements,what is the average package
+placements_info,Placements,highest package offered
+placements_info,Placements,placement statistics of last year
+placements_info,Placements,do companies recruit from your college
+placements_info,Placements,placement record
+placements_info,Placements,how many students got placed
+placements_info,Placements,are there campus recruitment drives
+placements_info,Placements,placement cell details
+placements_info,Placements,which recruiters come for placements
+placements_info,Placements,what is the median salary offered
+placement_prep,Placements,how can i prepare for campus placements
+placement_prep,Placements,does the college provide placement training
+placement_prep,Placements,tips for cracking campus interviews
+placement_prep,Placements,is there aptitude training
+placement_prep,Placements,do you conduct mock interviews
+placement_prep,Placements,how to get ready for recruitment tests
+placement_prep,Placements,coaching for placements available
+placement_prep,Placements,resume building workshops
+placement_prep,Placements,what skills do companies look for
+placement_prep,Placements,soft skills training for placements
+placement_prep,Placements,how to prepare for technical rounds
+placement_prep,Placements,group discussion practice sessions
+placement_prep,Placements,when does placement preparation start
+placement_prep,Placements,are there coding practice sessions for placements
+admission_process,Admissions,how to register for the first year
+admission_process,Admissions,where do i send my application
+admission_process,Admissions,what is the procedure to apply
+admission_process,Admissions,how do i fill the application form
+admission_process,Admissions,can i apply directly or through counselling
+admission_process,Admissions,how to start the admission formalities
+admission_process,Admissions,what are the steps after getting the seat
+admission_process,Admissions,how to apply through the portal
+admission_process,Admissions,guide me through joining the college
+admission_process,Admissions,i am a new student how do i apply
+admission_process,Admissions,what should i do to get a seat
+admission_process,Admissions,apply for engineering admission steps
+admission_process,Admissions,is there an online application form
+admission_process,Admissions,how to register for counselling
+admission_process,Admissions,what is the process to confirm my seat
+admission_documents,Admissions,do i need to submit my 12th marksheet
+admission_documents,Admissions,are original documents required
+admission_documents,Admissions,which certificates do i need to submit
+admission_documents,Admissions,do i need to bring income certificate
+admission_documents,Admissions,should i submit aadhar card copy
+admission_documents,Admissions,what proofs are needed for admission
+admission_documents,Admissions,need to submit sslc marks card
+admission_documents,Admissions,what documents for verification
+admission_documents,Admissions,are photocopies enough or originals needed
+admission_documents,Admissions,which certificate is compulsory for joining
+admission_deadlines,Admissions,is registration still open
+admission_deadlines,Admissions,when does registration close
+admission_deadlines,Admissions,is the application window closing soon
+admission_deadlines,Admissions,what is the cutoff date for applying
+admission_deadlines,Admissions,when is the last day of admission
+admission_deadlines,Admissions,when will the next batch start
+admission_deadlines,Admissions,will admission close soon
+admission_deadlines,Admissions,when do classes begin for first years
+admission_deadlines,Admissions,tell me the admission timeline
+admission_deadlines,Admissions,due date for submitting application
+fee_payment,Fees,can i use a credit card to pay fees
+fee_payment,Fees,can fees be paid with debit card
+fee_payment,Fees,is there a fine for late fee payment
+fee_payment,Fees,how to pay fees through net banking
+fee_payment,Fees,where do i make the fee payment
+fee_payment,Fees,can parents pay the fees online
+fee_payment,Fees,is cash accepted at the accounts office
+fee_payment,Fees,how do i get a fee payment receipt
+fee_payment,Fees,extension for fee payment date
+fee_payment,Fees,what are the accepted modes of payment
+fee_payment,Fees,fee installment option available
+course_details,Courses,what is the duration of the degree
+course_details,Courses,how many years does the program take
+course_details,Courses,how many semesters are there in total
+course_details,Courses,what is the course structure
+course_details,Courses,download syllabus copy
+course_details,Courses,what is taught in each semester
+course_details,Courses,how is the program structured
+courses_offered,Courses,is cyber security offered
+courses_offered,Courses,do you have electronics branch
+courses_offered,Courses,can i study mechanical engineering here
+courses_offered,Courses,are there civil engineering courses
+courses_offered,Courses,do you offer information science
+courses_offered,Courses,which departments are there in the college
+internships_availability,Internships,does the college organise industrial training
+internships_availability,Internships,is industrial training part of the course
+internships_availability,Internships,are students sent to companies for training
+internships_availability,Internships,do students do projects in companies during break
+internships_availability,Internships,does the college tie up with firms for student training
+internships_availability,Internships,is a summer internship compulsory
+internships_availability,Internships,can i do virtual internships
+internships_contact,Internships,how do i reach the training cell
+internships_contact,Internships,contact number of the internship office
+internships_contact,Internships,where is the placement and training office located
+internships_contact,Internships,who gives permission for internships
+greeting,General,hey buddy
+greeting,General,whats up
+greeting,General,hey assistant
+greeting,General,sup
+greeting,General,hello can you help me
+goodbye,General,later
+goodbye,General,i am done bye
+goodbye,General,ok good bye then
+thanks,General,thanks buddy
+thanks,General,thank you very much
+thanks,General,appreciate it
+out_of_scope,General,will it rain tomorrow
+out_of_scope,General,who won the football match
+out_of_scope,General,cricket score today
+out_of_scope,General,make me laugh
+out_of_scope,General,how to cook pasta
+out_of_scope,General,give me a recipe for cake
+out_of_scope,General,what is the capital of india
+out_of_scope,General,who is the prime minister
+out_of_scope,General,recommend a good film
+out_of_scope,General,suggest a good web series
+out_of_scope,General,best songs to listen to
+out_of_scope,General,how do i fix my phone
+out_of_scope,General,my laptop is not starting
+out_of_scope,General,how to lose weight fast
+out_of_scope,General,what is the price of gold today
+out_of_scope,General,stock market tips
+out_of_scope,General,what is bitcoin
+out_of_scope,General,translate this sentence to french
+out_of_scope,General,write a poem about love
+out_of_scope,General,who is your favourite actor
+out_of_scope,General,how old are you
+out_of_scope,General,what is your name
+out_of_scope,General,tell me about the moon
+out_of_scope,General,explain quantum physics
+out_of_scope,General,how to book a train ticket
+out_of_scope,General,best restaurants nearby
+out_of_scope,General,flight tickets to delhi
+out_of_scope,General,how to play chess
+out_of_scope,General,what is the meaning of life
+out_of_scope,General,sing me a song
+out_of_scope,General,solve this math problem
+out_of_scope,General,how to learn guitar
+out_of_scope,General,which phone should i buy
+out_of_scope,General,how do i get a driving licence
+out_of_scope,General,tell me a story
+out_of_scope,General,are you a human
+out_of_scope,General,asdf jkl
+out_of_scope,General,zxcv bnm qwe
+out_of_scope,General,random words banana table
+out_of_scope,General,how to grow tomatoes
+out_of_scope,General,horoscope for today
+college_info,General,where is the college located
+college_info,General,what is the address of the college
+college_info,General,college address
+college_info,General,how do i reach the college
+college_info,General,location of the college
+college_info,General,is the college near a metro station
+college_info,General,what is the contact number
+college_info,General,phone number of the college
+college_info,General,college contact details
+college_info,General,how can i contact the college
+college_info,General,what are the college timings
+college_info,General,college working hours
+college_info,General,is the college open now
+college_info,General,when does the college close
+college_info,General,when was the college founded
+college_info,General,year of establishment
+college_info,General,which university is the college affiliated to
+college_info,General,is the college approved by aicte
+college_info,General,is it a private college
+college_info,General,how many students study here
+college_info,General,what is the total strength of the college
+college_info,General,who started the college
+college_info,General,tell me about the college
+college_info,General,about city engineering college
+college_info,General,is the college affiliated to vtu
+college_info,General,where is the college map location
+college_info,General,landmark near the college
+college_info,General,office timings
+college_info,General,can i call the college office
+college_info,General,what is the college name
+college_info,General,address of cec
+college_info,General,cec address and phone
+college_info,General,where is cec situated
+college_info,General,where is the campus
+college_info,General,campus location in bangalore
+college_info,General,how to get to the campus by metro
+college_info,General,which area is the college in
+college_info,General,directions to the college
+college_info,General,office closing time
+college_info,General,till what time is the college open
+college_info,General,what time does the college open
+college_info,General,office hours of the college
+college_info,General,working days and hours
+college_info,General,is cec affiliated to vtu
+college_info,General,which university does cec come under
+college_info,General,vtu affiliated college or autonomous
+college_info,General,is the college aicte approved
+college_info,General,college establishment year
+college_info,General,when did cec start
+college_info,General,how old is the college
+college_info,General,college history
+college_info,General,who is the founder of the college
+college_info,General,how many students are there
+college_info,General,student strength of cec
+college_info,General,helpline number
+college_info,General,admission enquiry number
+college_info,General,whatsapp number of the college
+college_info,General,college landline number
+college_info,General,tell me something about cec
+college_info,General,introduce the college
+college_info,General,what type of college is this
+college_info,General,location and contact information
+college_info,General,where exactly is the college
+college_info,General,pin code of the college
+college_info,General,nearest metro station to the college

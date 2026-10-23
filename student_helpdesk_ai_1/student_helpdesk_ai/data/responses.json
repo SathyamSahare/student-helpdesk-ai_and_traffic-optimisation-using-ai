@@ -1,0 +1,95 @@
+{
+  "college_name": "City Engineering College",
+  "intents": {
+    "greeting": {
+      "verified": true,
+      "source_url": "",
+      "answer": "Hello! Welcome to the City Engineering College helpdesk. I can help with admissions, courses, fees, internships, placements and general college information. What would you like to know?"
+    },
+    "goodbye": {
+      "verified": true,
+      "source_url": "",
+      "answer": "Goodbye! Come back any time you have a question about City Engineering College."
+    },
+    "thanks": {
+      "verified": true,
+      "source_url": "",
+      "answer": "You're welcome! Ask me anything else about admissions, courses, fees, internships or placements."
+    },
+    "admission_process": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/",
+      "answer": "You can apply through the online application form on the college website, and the prospectus is available on the Admissions page. The fee structure lists the seat categories CET, CET-SNQ, Management (Karnataka) and COMEDK. For admission enquiries call 9880411361."
+    },
+    "admission_eligibility": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/prospectus/",
+      "answer": "Eligibility depends on the programme and the seat category (CET, COMEDK or Management). The detailed criteria are given in the college prospectus, available on the Admissions page. For specific cases, call the admission helpline 9880411361."
+    },
+    "admission_documents": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/application-form/",
+      "answer": "The complete list of documents is not published on the pages I checked. Please see the Application Form and Prospectus pages, or call the admission helpline 9880411361 to confirm the documents you need to bring."
+    },
+    "admission_deadlines": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/",
+      "answer": "Admission dates are not listed on the website pages I checked. Please contact the admission office on 9880411361 for this year's schedule, or watch the Admissions page for updates."
+    },
+    "courses_offered": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/programs/",
+      "answer": "Undergraduate: B.E. in AI & ML, Civil, Computer Science & Engineering, CSE (IoT & Cyber Security incl. Blockchain), Electronics & Communication, Information Science & Engineering, Mechanical; plus BBA and BCA.\nPostgraduate: MBA, MCA, M.Tech in CSE.\nResearch: Ph.D. in CSE."
+    },
+    "course_details": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/programs/",
+      "answer": "Each programme has its own page with details, and each department page lists its faculty and activities. Start from the Programs page and choose your branch. The university (VTU) publishes the official syllabus."
+    },
+    "fee_structure": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/fee-structure/",
+      "answer": "First-year B.E. fees for 2026-27: CET seat total Rs 1,55,820 (tuition + university fees Rs 1,30,320, plus skilling Rs 10,000, application & prospectus Rs 1,500, exam Rs 4,500, seminar/visits Rs 2,000, uniform Rs 7,500). CET SNQ seat total Rs 57,820. Management and COMEDK fees differ by branch, and later years differ too. Please check the official fee structure PDF on the website."
+    },
+    "fee_payment": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/admissions/",
+      "answer": "The college publishes its bank details on the Institution Bank Details page of the Admissions section. I did not find an online payment portal, so please confirm the payment mode, installments and due dates with the accounts office on 9880411361."
+    },
+    "scholarships": {
+      "verified": false,
+      "source_url": "",
+      "answer": "I could not find scholarship details on the college website pages I checked. Please ask the college office (9880411361) about government and institutional scholarships and their deadlines."
+    },
+    "internships_availability": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/placements/internship/",
+      "answer": "The college has a dedicated Internship page under Placements, and lists 32+ MOUs and industry collaborations. Please see that page for how internships are organised, or ask the placement team."
+    },
+    "internships_contact": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/placements/placement-team/",
+      "answer": "Internship queries go to the Placement team. Their contact details are on the Placement Team page. You can also call the college office on 9880411361."
+    },
+    "placements_info": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/placements/placement-statistics/",
+      "answer": "Placement statistics published by the college (students placed; CTC in lakhs):\n2023: 36 placed (highest 14.4, median 4, lowest 2.75)\n2022: 145 placed (highest 11, median 4, lowest 2.85)\n2021: 105 placed (highest 6.5, median 4, lowest 2.5)\n2020: 54 placed (highest 8, median 3.5, lowest 3)\n2019: 74 placed (highest 9.65, median 4, lowest 2.5)\nThis page was last updated in 2024; check the Placements page for newer figures."
+    },
+    "placement_prep": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/placements/training/",
+      "answer": "The Placements section has a Training page describing how students are prepared, and a Higher Studies Support page. Please see those pages or ask the placement team for the training schedule."
+    },
+    "out_of_scope": {
+      "verified": true,
+      "answer": "Sorry, I'm not sure about that. I can help with City Engineering College admissions, courses, fees, scholarships, internships, placements and general college information. You can also call the office on 9880411361."
+    },
+    "college_info": {
+      "verified": true,
+      "source_url": "https://cityengineeringcollege.ac.in/contact-us/",
+      "answer": "City Engineering College (CEC) was founded in 2001 by the Jayanagar Education Society. It is a private college approved by AICTE and affiliated to Visvesvaraya Technological University (VTU), Belagavi.\n\nAddress: Kanakapura Main Road, near Metro Station, Doddakallasandra, Bikasipura, Bengaluru, Karnataka 560062.\nPhone: 9880411361, 9880411363, 9880411364, 7349032929.\nGoogle lists the college as open until 5 pm today; please call the office to confirm exact working hours."
+    }
+  },
+  "fallback": "Sorry, I'm not sure about that. I can help with City Engineering College admissions, courses, fees, scholarships, internships, placements and general college information. You can also call the office on 9880411361."
+}
