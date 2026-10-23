@@ -4,17 +4,14 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# ---------------- PAGE CONFIGURATION ----------------
+#  PAGE CONFIGURATION 
 st.set_page_config(
     page_title="Student Helpdesk AI",
     page_icon="🎓",
     layout="centered"
 )
 
-# ---------------- KNOWLEDGE BASE ----------------
-# Replace these sample details with your college's
-# official information before presenting the project.
-
+#  KNOWLEDGE BASE 
 knowledge_base = [
     {
         "category": "Admissions",
@@ -144,7 +141,7 @@ knowledge_base = [
     }
 ]
 
-# ---------------- NLP MODEL ----------------
+# NLP MODEL 
 all_questions = []
 question_categories = []
 
@@ -219,7 +216,7 @@ def get_response(user_message):
     return "Sorry, I couldn't find an answer. Please try again."
 
 
-# ---------------- SESSION STATE ----------------
+#  SESSION STATE 
 if "messages" not in st.session_state:
     st.session_state.messages = [
         {
@@ -234,7 +231,7 @@ if "messages" not in st.session_state:
     ]
 
 
-# ---------------- MODERN CUSTOM DESIGN ----------------
+# - MODERN CUSTOM DESIGN 
 st.markdown("""
 <style>
 
@@ -328,7 +325,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ---------------- SIDEBAR ----------------
+#  SIDEBAR 
 with st.sidebar:
     st.title("🎓 Student Helpdesk")
     st.write("Your virtual college assistant")
@@ -355,7 +352,7 @@ with st.sidebar:
 
     st.caption("Student Helpdesk AI | Minor Project")
 
-# ---------------- MAIN INTERFACE ----------------
+#  MAIN INTERFACE 
 
 st.markdown(
     '<div class="main-title">'
