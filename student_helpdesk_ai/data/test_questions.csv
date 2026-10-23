@@ -1,0 +1,19 @@
+question,expected_intent
+What documents do I need for admission?,admissions
+How do I apply to the college?,admissions
+What are the eligibility criteria?,admissions
+List the engineering branches,courses
+Are postgraduate programs available?,courses
+Where do I check tuition fees?,fees
+Can I pay fees in installments?,fees
+How can I apply for financial aid?,scholarships
+Which scholarship documents are needed?,scholarships
+How do students get internships?,internships
+Is industrial training offered?,internships
+Tell me about campus placements,placements
+Which recruiters hire students?,placements
+What is the salary package?,placements
+Where is the campus located?,contact
+What is the college phone number?,contact
+Give me the official website,college_info
+Where can I read college details?,college_info
